@@ -15,4 +15,16 @@ This repo will be a project to create a study game using Unity and the Gemini AI
 
     - [ ] What is included
 
-    - [ ] What is fessible to do
+    - [ ] What is feasible to do
+
+- [ ] (June 28) Initial backend code
+
+    - [ ] Gemini AI Connection
+
+- [ ] (July 5) Initial Game Design
+
+    - [ ] Character type
+
+    - [ ] 
+
+- [ ]
