@@ -25,6 +25,6 @@ This repo will be a project to create a study game using Unity and the Gemini AI
 
     - [ ] Character type
 
-    - [ ] 
+    - [ ] Game Type
 
-- [ ]
+- [ ] (July 12) Intial Game
